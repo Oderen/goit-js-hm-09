@@ -103,4 +103,3 @@ function resetTimer() {
   refs.minutes.textContent = '00';
   refs.seconds.textContent = '00';
 };
-
